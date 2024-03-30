@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login_Firebase</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">click_to_login</string>
+    <string name="click_to_register">click_to_register</string>
+    <string name="layout">layout</string>
+    <string name="name_user">Name User</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="comfirm_password">Comfirm Password</string>
+</resources>
